@@ -2,3 +2,5 @@ hello
 line 2 content chan32ged
 add line 3 content = abc xx
 add line 4 test git stage.
+add line 5 test git rm file. the content is last.
+
