@@ -1,2 +1,3 @@
 hello
-line 2 content
+line 2 content changed
+add line 3 content = abc
