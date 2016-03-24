@@ -1,3 +1,4 @@
 hello
 line 2 content chan32ged
 add line 3 content = abc xx
+add line 4 test git stage.
